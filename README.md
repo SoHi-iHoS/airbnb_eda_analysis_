@@ -9,18 +9,19 @@ Since 2008, guests and hosts have used Airbnb to expand on travelling possibilit
 
 ### **This dataset has around 49,000 observations in it with 16 columns and it is a mix of categorical and numeric values.**
 
-### **Understanding Airbnb Business model**
+## **Understanding Airbnb Business model**
 The revenue of Airbnb comes from three main sources:
 
-**Commission from Hosts:** This fee varies from 3 to 5% of the amount charged for the rent. The host can list their properties for free and, with each booking, Airbnb deducts its commission. For hosts offering experiences (events and activities), the commission is 20%.
+* **Commission from Hosts:** This fee varies from 3 to 5% of the amount charged for the rent. The host can list their properties for free and, with each booking, Airbnb deducts its commission. For hosts offering experiences (events and activities), the commission is 20%.
 
-**Fees from Guests:** Airbnb charges 0% to 20% of the booking amount as transaction fees. This charge is also made with each reservation and varies according to the courses involved.
+* **Fees from Guests:** Airbnb charges 0% to 20% of the booking amount as transaction fees. This charge is also made with each reservation and varies according to the courses involved.
 
-**Host-only fee:**
-Hosts who list traditional hospitality listings, such as hotels and serviced apartments, or software-connected hosts—via software integrations with Airbnb—pay host-only fees. However, unless a major part of their listings are in the US, Uruguay, Canada, etc., software-connected hosts don’t have to pay a host-only fee.
-Host-only fees are usually between 14% and 16%, but for hosts with Airbnb Plus listings or who have a very strict cancellation policy, the payment is likely to be higher. To streamline payment, the fee is taken out of the host’s payout before disbursement.
+* **Host-only fee:**
+  * Hosts who list traditional hospitality listings, such as hotels and serviced apartments, or software-connected hosts—via software integrations with Airbnb—pay host-only fees. However, unless a major part of their listings are in the US, Uruguay, Canada, etc., software-connected hosts don’t have to pay a host-only fee.
 
-### **Our goal/objective:**
+  * Host-only fees are usually between 14% and 16%, but for hosts with Airbnb Plus listings or who have a very strict cancellation policy, the payment is likely to be higher. To streamline payment, the fee is taken out of the host’s payout before disbursement.
+
+## **Our goal/objective:**
 
 The primary aim of this analysis is to uncover and define the key performance indicators (KPIs) that significantly impact the listing of properties on the Airbnb platform. Through thorough exploration and visualization of the Airbnb dataset focused on New York City (NYC), we seek to identify the fundamental metrics influencing property listings and their pricing.
 
