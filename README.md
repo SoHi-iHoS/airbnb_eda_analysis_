@@ -29,4 +29,5 @@ Our business objective is to extract actionable insights from the dataset, speci
 
 By conducting this analysis from diverse perspectives, we aim to derive valuable insights that can inform strategic decision-making, enhance understanding of market dynamics, and optimize performance within the Airbnb ecosystem.
 
+### Dataset link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
